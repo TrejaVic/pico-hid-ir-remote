@@ -24,11 +24,11 @@ a_code = (255, 0, 239, 16)#your ir code here
 s_code = (255, 0, 181, 74)#your ir code here
 
 
-#hold example (line 55)
+#hold example (line 59)
 shift_code = (255, 0, 199, 56)#your ir code here
 shift_held = False
 
-#shortcuts example/double button (line 87)
+#shortcuts example/double button (line 67)
 altf4_code = (255, 0, 87, 168)#your ir code here
 
 while True:

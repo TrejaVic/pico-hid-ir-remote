@@ -26,6 +26,7 @@ If you installed another UF2 then hold the bootsel button and copy ```flash_nuke
 ```
 Hold the bootsel button on the Pico and connect it to the computer.
 
+[Keep in my mind the uf2 file is made for Turkish. You may want to install English version from https://circuitpython.org/board/raspberry_pi_pico/ ]
 Copy "adafruit-circuitpython-raspberry_pi_pico-tr-8.1.0.uf2" to the Pico.
 ```
 ### Uploading code and libraries

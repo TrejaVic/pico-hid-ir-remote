@@ -5,6 +5,8 @@ Control your computer with Raspberry Pi Pico &amp; IR. Automate tasks, and have 
 ## Connect IR to Pico
 I am using the KY-022 IR module for this project. Please note that this project is specifically designed to work with the KY-022 module.
 
+[Pinout of pico: https://datasheets.raspberrypi.com/pico/Pico-R3-A4-Pinout.pdf]
+
 Signal (Green): GP15 / Pin 20
 
 VCC (Red): 3v3 (OUT) / Pin 36
